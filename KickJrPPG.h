@@ -1,7 +1,7 @@
 /*
  FILENAME:	KickJrPPG.h
- AUTHOR:	Orlando Hoilett
- EMAIL:     ohoilett@purdue.edu / orlandohoilett@gmail.com
+ AUTHOR:	Orlando S. Hoilett
+ EMAIL:		orlandohoilett@gmail.com
  
  
  Please see .cpp file for extended descriptions, instructions, and version updates
